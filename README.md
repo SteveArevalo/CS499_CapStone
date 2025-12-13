@@ -1,4 +1,4 @@
-# CS499_CapStone
+# CS499_Capstone
 
 # Professional Self-Assessment
 
