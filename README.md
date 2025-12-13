@@ -57,15 +57,15 @@ The artifacts included in this ePortfolio collectively demonstrate the full rang
 
 ## Portfolio Artifacts Overview
 
-### Software Engineering and Design
+### CS360 Software Engineering and Design 
 
 This artifact demonstrates my ability to design and enhance maintainable software systems. The project involves a mobile Inventory Management application enhanced using the MVVM architectural pattern to improve separation of concerns, scalability, and testability. It highlights professional software engineering practices and object-oriented design principles.
 
-### Algorithms and Data Structures
+### CS 340 Algorithms and Data Structures
 
 This artifact showcases my understanding of algorithmic efficiency and performance optimization. The project enhances a standard Binary Search Tree by implementing a self-balancing AVL Tree, improving worst-case time complexity and demonstrating the application of algorithmic trade-offs in system design.
 
-### Databases and Analytics
+### CS 300 Databases and Analytics
 
 This artifact highlights my ability to manage and analyze data using modern database technologies. The project expands a MongoDB-backed client-server application by incorporating data mining and analytics to identify trends and support data-driven decision-making, reflecting real-world data engineering responsibilities.
 
