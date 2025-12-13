@@ -23,7 +23,10 @@
 
 ## About This Portfolio
 
+You can view the full repository here: [CS499 Capstone GitHub Repository](https://github.com/SteveArevalo/CS499_CapStone)
+
 This repository serves as my professional Computer Science ePortfolio and capstone submission for Southern New Hampshire University. It highlights my academic and technical growth across software engineering, data structures and algorithms, database systems, analytics, and security. All artifacts contained within this repository were developed or enhanced as part of my undergraduate Computer Science program and collectively demonstrate my readiness for a data role.
+
 
 ---
 
